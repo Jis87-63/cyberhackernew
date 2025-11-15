@@ -1,0 +1,1 @@
+<arquivo-ou-padrão> filter=lfs diff=lfs merge=lfs -text
