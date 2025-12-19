@@ -1,5 +1,7 @@
 {
-  "devDependencies": {
-    "vite": "^4.0.0"
+  "name": "cyber-hacler",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo \"Nenhum build necessário\" && exit 0"
   }
 }
